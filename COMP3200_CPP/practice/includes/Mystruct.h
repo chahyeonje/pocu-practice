@@ -4,6 +4,7 @@
 
 #ifndef PRACTICE_MYSTRUCT_H
 #define PRACTICE_MYSTRUCT_H
+#include <iostream>
 
 namespace samples
 {

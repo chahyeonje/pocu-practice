@@ -4,6 +4,7 @@
 
 #ifndef PRACTICE_SWAP_H
 #define PRACTICE_SWAP_H
+#include <iostream>
 
 namespace samples
 {

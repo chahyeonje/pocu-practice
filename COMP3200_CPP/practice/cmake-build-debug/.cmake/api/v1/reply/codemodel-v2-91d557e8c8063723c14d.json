@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.23"
+						"string" : "3.21"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "practice::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-practice-Debug-d4f5812c31d95e544632.json",
+					"jsonFile" : "target-practice-Debug-9080714ca51677c2da21.json",
 					"name" : "practice",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/guswp/Desktop/POCU_ACADEMY/COMP3200_CPP/practice/cmake-build-debug",
-		"source" : "C:/Users/guswp/Desktop/POCU_ACADEMY/COMP3200_CPP/practice"
+		"build" : "D:/pocuAcademy/pocu-practice/COMP3200_CPP/practice/cmake-build-debug",
+		"source" : "D:/pocuAcademy/pocu-practice/COMP3200_CPP/practice"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 3
 	}
 }

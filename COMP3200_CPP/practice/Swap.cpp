@@ -1,7 +1,6 @@
 //
 // Created by cha on 2022-10-30.
 //
-#include <iostream>
 #include "Swap.h"
 
 namespace samples

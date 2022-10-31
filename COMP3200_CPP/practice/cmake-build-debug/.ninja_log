@@ -1,17 +1,11 @@
 # ninja log v5
-2	224	6888325191274601	CMakeFiles/practice.dir/main.cpp.obj	34433fccc6577532
-225	365	6888325192444371	practice.exe	9beb39a4038310ae
-11	242	6888320459771099	CMakeFiles/practice.dir/Swap.cpp.obj	e6966e620e98cf81
-10	234	6888325114546206	CMakeFiles/practice.dir/Mystuct.cpp.obj	8df1e5f080d500fc
-4	302	6888348494998248	CMakeFiles/practice.dir/Mystruct.cpp.obj	352290aa6c0b1e46
-19	304	6888348495008254	CMakeFiles/practice.dir/main.cpp.obj	e2bacd55248e8324
-3	284	6888348902549571	CMakeFiles/practice.dir/Mystruct.cpp.obj	352290aa6c0b1e46
-19	287	6888348902589572	CMakeFiles/practice.dir/main.cpp.obj	e2bacd55248e8324
-11	290	6888348902619571	CMakeFiles/practice.dir/Swap.cpp.obj	d6044476d39122f
-290	460	6888348904019575	practice.exe	c12112015461653d
-3	270	6888349475872740	CMakeFiles/practice.dir/Swap.cpp.obj	d6044476d39122f
-10	271	6888349475882739	CMakeFiles/practice.dir/main.cpp.obj	e2bacd55248e8324
-271	416	6888349477152797	practice.exe	c12112015461653d
-3	256	6888349789241407	CMakeFiles/practice.dir/Mystruct.cpp.obj	352290aa6c0b1e46
-10	265	6888349789330690	CMakeFiles/practice.dir/main.cpp.obj	e2bacd55248e8324
-265	415	6888349790610552	practice.exe	c12112015461653d
+2	210	6888832979713030	CMakeFiles/practice.dir/main.cpp.obj	1065ba590725e94
+210	332	6888832980919465	practice.exe	aeeae84215b7b42b
+0	293	6888816413573207	CMakeFiles/practice.dir/Swap.cpp.obj	335f161699d60a64
+13	294	6888816413573207	CMakeFiles/practice.dir/Mystruct.cpp.obj	104773638119fa2c
+8	208	6888832979693140	CMakeFiles/practice.dir/String.cpp.obj	c374b330915582db
+2	207	6888834064500682	CMakeFiles/practice.dir/Swap.cpp.obj	335f161699d60a64
+8	208	6888834064520627	CMakeFiles/practice.dir/main.cpp.obj	1065ba590725e94
+13	221	6888834064650186	CMakeFiles/practice.dir/String.cpp.obj	c374b330915582db
+19	222	6888834064650186	CMakeFiles/practice.dir/Mystruct.cpp.obj	104773638119fa2c
+223	323	6888834065646850	practice.exe	aeeae84215b7b42b
