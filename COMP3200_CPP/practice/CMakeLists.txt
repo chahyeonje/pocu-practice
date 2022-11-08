@@ -3,6 +3,6 @@ project(practice)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(practice main.cpp Swap.cpp Mystruct.cpp String.cpp)
+add_executable(practice main.cpp Swap.cpp Mystruct.cpp String.cpp Calculater.cpp)
 
 target_include_directories(practice PUBLIC ${CMAKE_SOURCE_DIR}/includes)
