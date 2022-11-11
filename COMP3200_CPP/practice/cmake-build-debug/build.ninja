@@ -84,6 +84,13 @@ build CMakeFiles/practice.dir/Calculater.cpp.obj: CXX_COMPILER__practice_Debug D
   OBJECT_DIR = CMakeFiles\practice.dir
   OBJECT_FILE_DIR = CMakeFiles\practice.dir
 
+build CMakeFiles/practice.dir/Calculator.cpp.obj: CXX_COMPILER__practice_Debug D$:/pocuAcademy/pocu-practice/COMP3200_CPP/practice/Calculator.cpp || cmake_object_order_depends_target_practice
+  DEP_FILE = CMakeFiles\practice.dir\Calculator.cpp.obj.d
+  FLAGS = -g -std=gnu++14
+  INCLUDES = -ID:/pocuAcademy/pocu-practice/COMP3200_CPP/practice/includes
+  OBJECT_DIR = CMakeFiles\practice.dir
+  OBJECT_FILE_DIR = CMakeFiles\practice.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target practice
@@ -92,7 +99,7 @@ build CMakeFiles/practice.dir/Calculater.cpp.obj: CXX_COMPILER__practice_Debug D
 #############################################
 # Link the executable practice.exe
 
-build practice.exe: CXX_EXECUTABLE_LINKER__practice_Debug CMakeFiles/practice.dir/main.cpp.obj CMakeFiles/practice.dir/Swap.cpp.obj CMakeFiles/practice.dir/Mystruct.cpp.obj CMakeFiles/practice.dir/String.cpp.obj CMakeFiles/practice.dir/Calculater.cpp.obj
+build practice.exe: CXX_EXECUTABLE_LINKER__practice_Debug CMakeFiles/practice.dir/main.cpp.obj CMakeFiles/practice.dir/Swap.cpp.obj CMakeFiles/practice.dir/Mystruct.cpp.obj CMakeFiles/practice.dir/String.cpp.obj CMakeFiles/practice.dir/Calculater.cpp.obj CMakeFiles/practice.dir/Calculator.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\practice.dir
