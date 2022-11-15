@@ -3,7 +3,16 @@
 //
 
 #include "Vector.h"
-Vector::Vector() {
+Vector::Vector()
+    : mX(0)
+    , mY(0)
+{
+}
+
+Vector::Vector(double x, double y)
+: mX(x)
+, mY(y)
+{
 }
 
 int Vector::GetX() {
