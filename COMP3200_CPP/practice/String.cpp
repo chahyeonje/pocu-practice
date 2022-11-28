@@ -1,10 +1,31 @@
 //
 // Created by camelcha on 2022-10-31.
 //
-
+//#include <cstring>
 #include "String.h"
+
 namespace samples
 {
+
+    String::String(const char *str)
+//        :mSize(strlen(str)+1)
+    {
+        mString = new char[mSize];
+        memcpy(mString, str, mSize);
+    }
+
+    String::String(const String& str)
+        :mSize(str.mSize)
+    {
+        mString = new char[mSize];
+        memcpy(mString, str.mString, mSize);
+    }
+
+    String::~String()
+    {
+        delete[] mString;
+    }
+
     void StringExample()
     {
         std::string firstName;

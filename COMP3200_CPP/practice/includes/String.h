@@ -7,6 +7,18 @@
 
 namespace samples
 {
+    class String
+    {
+    public:
+        String(const char* str);
+        String(const String& str);
+        ~String();
+
+    private:
+        char* mString;
+        size_t mSize;
+    };
+
     void StringExample();
 }
 #endif //PRACTICE_STRING_H
