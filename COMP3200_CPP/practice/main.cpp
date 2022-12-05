@@ -6,6 +6,7 @@
 #include "Calculator.h" ///class
 #include "Vector.h"
 #include "Animal.h"
+#include "ValueCastingExample.h"
 int main() {
 
 //    samples::MyStructExample();
@@ -15,7 +16,8 @@ int main() {
 //    Calculator testCal;
 //    testCal.ExeCal();
 //    VectorExample();
-    AnimalExample();
+//    AnimalExample();
+    samples::ValueCastingExample();
 
     return 0;
 }
