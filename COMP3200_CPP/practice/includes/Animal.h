@@ -8,8 +8,9 @@
 
 class Animal {
 public:
+    Animal();
     Animal(int age);
-    virtual void speak() = 0;
+    void speak();
 
 private:
     int mAge;

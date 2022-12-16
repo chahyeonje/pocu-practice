@@ -16,8 +16,8 @@ int main() {
 //    Calculator testCal;
 //    testCal.ExeCal();
 //    VectorExample();
-//    AnimalExample();
-    samples::ValueCastingExample();
+    AnimalExample();
+//    samples::ValueCastingExample();
 
     return 0;
 }

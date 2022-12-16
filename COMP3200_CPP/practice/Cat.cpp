@@ -3,6 +3,9 @@
 //
 
 #include "Cat.h"
+Cat::Cat() : Animal()
+{
+}
 
 Cat::Cat(int age, std::string name)
     : Animal(age)

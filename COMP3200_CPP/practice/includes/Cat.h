@@ -9,6 +9,7 @@
 
 class Cat: public Animal{
 public:
+    Cat();
     Cat(int age, std::string name);
     void speak();
     void GetName();
